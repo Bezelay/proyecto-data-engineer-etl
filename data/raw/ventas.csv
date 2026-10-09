@@ -1,0 +1,11 @@
+id_venta,fecha,cliente,producto,cantidad,precio_unitario
+1001,2026-10-01,Ana García,Teclado,2,25.50
+1002,2026-10-01,Marcos Ruiz,Ratón,3,12.00
+1003,2026-10-02,Lucía Pérez,Monitor,1,189.99
+1004,2026-10-02,Ana García,Cable HDMI,2,8.50
+1005,2026-10-03,David López,Teclado,1,25.50
+1006,2026-10-03,Marcos Ruiz,Monitor,2,189.99
+1007,2026-10-04,,Ratón,1,12.00
+1008,2026-10-04,Lucía Pérez,Webcam,0,39.99
+1009,2026-10-05,David López,Soporte portátil,1,24.90
+1009,2026-10-05,David López,Soporte portátil,1,24.90

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datos y resultados generados
+data/processed/*
+!data/processed/.gitkeep
+data/warehouse/*
+!data/warehouse/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# VS Code: conserva configuración compartida, ignora estado personal
+.vscode/*
+!.vscode/settings.json
